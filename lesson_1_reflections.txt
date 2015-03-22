@@ -21,3 +21,8 @@ You can use git log to find the entire log of commits and use git diff to track 
 How might using version control make you more confident to make changes that could break something?
 
 It is a very cool feature to be able to revert back to older working versions of files without having to manually piece through the code or save multiple manual versions. This feature means you could really push the boundaries of your comfort level without fear of destroying all of your hard work.
+
+Now that you have your workspace set up, what do you want to try using Git for?  
+
+I think it will definitely help me through the learning process to push my comfort level and try new things without worrying about messing things up.  It can come in very handy for web design as well by allowing me to use different versions of a web page that I can always revert back to if I don't like the way things are looking.
+
