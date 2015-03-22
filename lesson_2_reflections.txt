@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A repository is needed to group the files that you want Git to track when you save commits.  Without the repository, Git would not know which files to track changes on and which were excluded.
