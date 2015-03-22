@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 A repository is needed to group the files that you want Git to track when you save commits.  Without the repository, Git would not know which files to track changes on and which were excluded.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can use the staging area to show which changes have been made to which documents as well as using the staging area to separate out the different files with different instances of logical changes in to their own commits.
